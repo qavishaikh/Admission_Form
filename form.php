@@ -154,7 +154,7 @@
                             <div class="col-sm-8">
                                 <div style="border:2px solid black;padding:10px;text-align:center;border-radius:25px;">
                                     <input type="checkbox" name="declare" required>
-                                    I declare that I have read and filled all the above information, so the information is given by me is incorrect, you have rights to cancel admission form.
+                                    I declare that I have read and filled all the above information, so the information is given by me is incorrect, you have rights to cancel admission form at any stage.
                                 </div>
                                 <div class="form-group row">
                                     <div class="col-sm-4">
